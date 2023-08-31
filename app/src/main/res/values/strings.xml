@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feaserly</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Name">Name</string>
+    <string name="Contact_Number">Contact Number</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Lastname">Lastname</string>
+    <string name="Firstname">Firstname</string>
+</resources>
